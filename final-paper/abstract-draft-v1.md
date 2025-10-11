@@ -1,1 +1,13 @@
+Aneef Sheriff  
 
+Professor Edwin Reed-Sanchez   
+
+Cybersecurity Project CSN 190 
+
+11 October 2025 
+
+Abstract Draft 
+
+Automated Vulnerability Assessment Tool Development (Project - Build Python tool) 
+
+In the rapidly evolving landscape of cybersecurity, organizations face an ever-increasing number of threats targeting their digital infrastructure. Manual vulnerability assessments are often time-consuming, error-prone, and insufficient to keep pace with the dynamic nature of cyber threats. This project aims to design and develop an Automated Vulnerability Assessment Tool that streamlines the process of identifying, analyzing, and reporting security vulnerabilities in computer systems and networks. The tool integrates multiple open-source scanning engines such as Nmap, OpenVAS, and Nikto. It leverages techniques such as port scanning, service enumeration, vulnerability database correlation, and risk scoring based on CVSS metrics. By automating the vulnerability assessment process, this tool aims to enhance the efficiency, accuracy, and scalability of cybersecurity operations, ultimately reducing the attack surface and improving the overall security posture of organizations. This project contributes to the field of cybersecurity by offering a practical, extensible, and cost-effective solution for proactive vulnerability management. 
