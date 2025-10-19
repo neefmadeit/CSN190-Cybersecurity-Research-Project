@@ -11,8 +11,19 @@
 - Citation: PollaMohith. (2025). Automated-Network-Vulnerability-Security-Assessment-Tool. GitHub. 
 - Type: Security Analysis Tool 
 - Synopsis: This Python script automates network scanning using Nmap and extracts vulnerability information such as CVEs (Common Vulnerabilities and Exposures). It outputs the results into a structured CSV file for easy analysis. 
-- Link: https://github.com/PollaMohith/-Automated-Network-Vulnerability-Security-Assessment-Tool/tree/main 
-
+- Link: https://github.com/PollaMohith/-Automated-Network-Vulnerability-Security-Assessment-Tool/tree/main
+  
+## Topic 2: AI-Powered Phishing Detection System (Project - Develop detection tool)
+### GitHub Project 1:  
+- Citation: GauravGhandat-23. (2025). AI-Powered-Phishing-Detection-System. GitHub. 
+- Type: Security Analysis Tool 
+- Synopsis: An AI-powered phishing detection system using machine learning to classify emails as phishing or safe. Built using Python, Streamlit, and scikit-learn, this system analyzes email bodies and URLs to detect phishing attempts. 
+- Link: https://github.com/GauravGhandat-23/AI-Powered-Phishing-Detection-System/tree/main
+### GitHub Project 2:  
+- Citation: Lerato Letsepe. (2025). ai-powered-phishing-email-detection-system. GitHub. 
+- Type: Security Analysis Tool 
+- Synopsis: This project is an AI-Powered Phishing Email Detection System designed to classify emails as either legitimate or phishing attempts. It features a web-based interface allowing users to input email content (sender, subject, body) or upload an email file. Users can choose between two AI models for classification: a traditional Multinomial Naive Bayes (MultinomialNB) model and a fine-tuned BERT-mini transformer model. The system also provides explainability for the AI's decisions. 
+- Link: https://github.com/lerato1ofwan/ai-powered-phishing-email-detection-system 
 ### Articles
 -
 -
