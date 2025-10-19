@@ -1,4 +1,4 @@
-### Topic 1: Automated Vulnerability Assessment Tool Development (Project - Build Python tool) 
+## Topic 1: Automated Vulnerability Assessment Tool Development (Project - Build Python tool) 
 ### GitHub Repos
 ### GitHub Project 1:  
 - Citation: dragon404-git. (2025). Vulnerability-Scanning-Toolkit. GitHub. 
