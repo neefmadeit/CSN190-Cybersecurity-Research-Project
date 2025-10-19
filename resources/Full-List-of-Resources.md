@@ -40,6 +40,14 @@
 - Link: https://peerdh.com/blogs/programming-insights/developing-a-python-based-tool-for-automated-vulnerability-scanning-and-reporting-2 
 
 ### Multimedia / Videos
--
--
--
+### Resource 1:   
+- Citation: Channel: Vinsloev Academy 
+- Type: YouTube Video  
+- Synopsis: Learn to build a lightweight CVE scanner using Python and the NVD API. Covers severity scoring with CVSS and practical automation for ethical hacking. 
+- Link: https://www.youtube.com/watch?v=EgmHjgmAGfs 
+
+### Resource 2:    
+- Citation: Channel: Vinsloev Academy 
+- Type: YouTube Video   
+- Synopsis: Covers Python automation for file scanning, network ping scanning, and OSINT scraping. Great for beginners building cybersecurity tools. 
+- Link: https://www.youtube.com/watch?v=cjdIIwUZsAg 
