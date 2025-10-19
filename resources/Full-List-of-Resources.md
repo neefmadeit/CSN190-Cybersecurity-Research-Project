@@ -45,14 +45,12 @@
 - Type: Academic Article 
 - Synopsis: This study combines DistilBERT embeddings with handcrafted URL features and ensemble classifiers (Random Forest and XGBoost). It achieves high precision and recalls on a large dataset of phishing URLs. The hybrid approach enhances detection accuracy and robustness against obfuscated phishing attempts 
 - Link: https://ijcrt.org/papers/IJCRT25A5120.pdf 
-- Relevance: 5/5 - This article has plenty of knowledge that I can use for my project. There is a lot of information that I did not know in this article. 
 
 ### Resource 2:   
 - Citation: Rao, S., & Patel, M. (2023). Email phishing detection using NLP and deep learning techniques. World Journal of Advanced Engineering and Technology Sciences, 2(4), 284. 
 - Type: Academic Article   
 - Synopsis: This research integrates NLP preprocessing with CNN and LSTM architectures to detect phishing in emails. It uses tokenization, context analysis, and semantic features to achieve 97.5% accuracy. The model is designed for real-time deployment in enterprise email systems. 
 - Link: https://wjaets.com/sites/default/files/WJAETS-2023-0284.pdf 
-- Relevance: 5/5 - This article has plenty of knowledge that I can use for my project. There is a lot of information that I did not know in this article.
 
 ### Multimedia / Videos
 ### Resource 1:   
