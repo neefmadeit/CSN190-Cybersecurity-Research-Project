@@ -51,3 +51,15 @@
 - Type: YouTube Video   
 - Synopsis: Covers Python automation for file scanning, network ping scanning, and OSINT scraping. Great for beginners building cybersecurity tools. 
 - Link: https://www.youtube.com/watch?v=cjdIIwUZsAg 
+
+### Resource 3:    
+- Citation: Channel: Asim Gul 
+- Type: YouTube Video    
+- Synopsis: Summary: A full project tutorial using BERT from Hugging Face to detect phishing emails. Covers tokenization, fine-tuning, evaluation, and deployment. 
+- Link: https://www.youtube.com/watch?v=AT857mWvl0g 
+
+### Resource 4:    
+- Citation: Channel: AI Tech Hub 
+- Type: YouTube Video  
+- Synopsis: A conceptual and practical overview of how AI and ML are used to detect phishing threats. Includes real-world examples and tips for recognizing phishing attempts. 
+- Link: https://www.youtube.com/watch?v=93WliZOjQ-4
