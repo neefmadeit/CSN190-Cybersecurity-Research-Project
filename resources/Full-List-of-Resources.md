@@ -19,26 +19,25 @@
 - Type: Security Analysis Tool 
 - Synopsis: An AI-powered phishing detection system using machine learning to classify emails as phishing or safe. Built using Python, Streamlit, and scikit-learn, this system analyzes email bodies and URLs to detect phishing attempts. 
 - Link: https://github.com/GauravGhandat-23/AI-Powered-Phishing-Detection-System/tree/main
+
 ### GitHub Project 2:  
 - Citation: Lerato Letsepe. (2025). ai-powered-phishing-email-detection-system. GitHub. 
 - Type: Security Analysis Tool 
 - Synopsis: This project is an AI-Powered Phishing Email Detection System designed to classify emails as either legitimate or phishing attempts. It features a web-based interface allowing users to input email content (sender, subject, body) or upload an email file. Users can choose between two AI models for classification: a traditional Multinomial Naive Bayes (MultinomialNB) model and a fine-tuned BERT-mini transformer model. The system also provides explainability for the AI's decisions. 
-- Link: https://github.com/lerato1ofwan/ai-powered-phishing-email-detection-system 
-### Articles
-### Topic 1: Automated Vulnerability Assessment Tool Development (Project - Build Python tool) 
-### Resource 1: 
-- Citation: Srinivasan, M., Premod, N., Prakash, S., Shobarani, R., & Priyanka, G. (2024). Automated Vulnerability Assessment Tools. IJSART Journal. 
-- Type: Academic Article 
-- Synopsis: Describes a Python-based system integrating Nmap, Nikto, and UniScan for comprehensive web vulnerability scanning. 
-- Link: https://ijsart.com/public/storage/paper/pdf/IJSARTV10I383619.pdf 
-- Relevance: 5/5 - This article has exposed me to the process of creating an automated vulnerability assessment tool. 
+- Link: https://github.com/lerato1ofwan/ai-powered-phishing-email-detection-system
 
+### Articles
+
+## Topic 1: Automated Vulnerability Assessment Tool Development (Project - Build Python tool) 
+### Resource 1: 
+- Citation: Srinivasan, M., Premod, N., Prakash, S., Shobarani, R., & Priyanka, G. (2024). Automated Vulnerability Assessment Tools. IJSART Journal.  
+- Synopsis: Describes a Python-based system integrating Nmap, Nikto, and UniScan for comprehensive web vulnerability scanning. 
+- Link: https://ijsart.com/public/storage/paper/pdf/IJSARTV10I383619.pdf
+  
 ### Resource 2:  
-- Citation: PeerDH Team. (2024). Developing a Python-Based Tool for Automated Vulnerability Scanning and Reporting.  
-- Type: Academic Article  
+- Citation: PeerDH Team. (2024). Developing a Python-Based Tool for Automated Vulnerability Scanning and Reporting.   
 - Synopsis: This article provides a practical guide to building a Python vulnerability scanner using Nmap, requests, and BeautifulSoup, with modular architecture and reporting.  
 - Link: https://peerdh.com/blogs/programming-insights/developing-a-python-based-tool-for-automated-vulnerability-scanning-and-reporting-2 
-- Relevance: 5/5 - This article is very detailed and lists the step-by-step instructions on how to build an automated vulnerability scanning and reporting tool using Python.
 
 ### Multimedia / Videos
 -
