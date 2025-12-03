@@ -1,6 +1,6 @@
 # [Your Project Title]
 
-**Author:** Aneef Sheriff.\
+**Author:** Aneef Sheriff .\
 **Course:** CSN 190 - Cybersecurity Project  
 **Semester:** Fall 2025 
 **Institution:** Bronx Community College
