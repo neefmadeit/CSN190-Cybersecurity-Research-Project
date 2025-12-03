@@ -6,7 +6,7 @@
 **Institution:** Bronx Community College
 
 ## Project Overview
-[2-3 sentence description of what you did]
+This project aims to design and develop an Automated Vulnerability Assessment Tool that streamlines the process of identifying, analyzing, and reporting security vulnerabilities in computer systems and networks.
 
 ## Software/Tools Used
 - Tool Name (version)
