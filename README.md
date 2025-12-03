@@ -1,4 +1,4 @@
-# [Your Project Title]
+# My Final Project
 
 **Author:** Aneef Sheriff <br>
 **Course:** CSN 190 - Cybersecurity Project  
