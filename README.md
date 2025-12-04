@@ -15,7 +15,7 @@ This project aims to design and develop an automated vulnerability assessment to
 
 ## Key Deliverables
 - [Medium Article](link when published)
-- [Tutorial](./docs/TUTORIAL.md)
+- [Tutorial](04.docs/SETUP-GUIDE.md)
 - [Video Demonstration](YouTube link)
 
 ## Repository Navigation
