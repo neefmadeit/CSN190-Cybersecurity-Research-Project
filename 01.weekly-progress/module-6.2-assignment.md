@@ -18,5 +18,4 @@ I got it running by following these steps:
 
 I did not encounter any problems when installing this tool. 
 
- I learned how to properly clone and install all the required modules for a GitHub repository. The AI chat bot was very helpful. I asked it to get the GitHub repository running, and it did just that. 
-
+ I learned how to properly clone and install all the required modules for a GitHub repository. The AI chat bot was very helpful. I asked it to get the GitHub repository running, and it did just that.
