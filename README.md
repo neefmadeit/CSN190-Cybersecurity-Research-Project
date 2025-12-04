@@ -10,8 +10,8 @@ This project aims to design and develop an automated vulnerability assessment to
 
 ## Software/Tools Used
 - Tool Name (version)
-- Programming languages
-- Key technologies
+- Linux
+- Python
 
 ## Key Deliverables
 - [Medium Article](link when published)
@@ -33,6 +33,6 @@ This project aims to design and develop an automated vulnerability assessment to
 [1-2 paragraphs on what you accomplished and learned]
 
 ## Contact
-- Email: your.email@example.com
-- LinkedIn: [Your Profile]
+- Email: aneef_s@yahoo.com
+- LinkedIn: https://www.linkedin.com/in/aneefsheriff/
 - Medium: [Your Profile]
