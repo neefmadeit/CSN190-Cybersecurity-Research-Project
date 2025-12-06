@@ -9,8 +9,7 @@
 This project aims to design and develop an automated vulnerability assessment tool that streamlines the process of identifying, analyzing, and reporting security vulnerabilities in computer systems and networks.
 
 ## Software/Tools Used
-- Tool Name (version)
-- Linux
+- VS Code
 - Python
 
 ## Key Deliverables
