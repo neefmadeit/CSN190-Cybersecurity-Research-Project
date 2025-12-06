@@ -26,7 +26,7 @@ This project aims to design and develop an automated vulnerability assessment to
 - `/images/` - Screenshots and visual documentation
 
 ## Getting Started
-[Brief instructions on how to replicate your work]
+The scanner successfully identifies common vulnerabilities such as default credentials, enabled debug modes, and weak authentication policies. Its lightweight design allows integration into DevSecOps pipelines. Future enhancements include CVE database integration and multi-threaded scanning for large-scale systems.
 
 ## Results Summary
 [1-2 paragraphs on what you accomplished and learned]
