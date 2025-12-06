@@ -12,17 +12,17 @@ The scanner successfully identifies common vulnerabilities such as default crede
 
 The proposed scanner consists of four main components: Input Module, Pattern Matching Engine, Reporting Module, and Automation Layer. The architecture ensures modularity and scalability. The workflow includes loading configuration files, applying regex-based checks, logging findings, and generating reports. 
 
-This aligns with my cybersecurity goals by exposing me to more tools that are used in the cybersecurity industry. I am also excited to use Python and get more experience developing code that I can use as a cybersecurity professional. 
+This aligns with my cybersecurity goals by exposing me to more tools that are used in the cybersecurity industry. I am also excited to use Python and get more experience developing code that I can use as a cybersecurity professional.
 
 This article will guide you step-by-step to develop a basic vulnerability scanner using Python. 
 
-## Tools Needed 
+## Prerequisites: 
 
 - VS Code 
 
 - Python 
 
-## Python Libraries: 
+- Python Libraries: 
 
 - OS  
 
