@@ -38,7 +38,7 @@ This article will guide you step-by-step to develop a basic vulnerability scanne
 
 ## Using the Software
 
-After you run the Python script, it will look for the configuration file you created, then check it for vulnerabilities. It is important to note that you are using a configuration file that you created, and you are not running it against a real server configuration file. You should see an output like in the screenshot below
+After you run the Python script, it will look for the configuration file you created, then check it for vulnerabilities. It is important to note that you are using a configuration file that you created, and you are not running it against a real server configuration file. You should see an output like in the screenshot below.
 
  ## Research Insights 
 
