@@ -40,13 +40,13 @@ This article will guide you step-by-step to develop a basic vulnerability scanne
 
 After you run the Python script, it will look for the configuration file you created, then check it for vulnerabilities. You should see an output like in the screenshot below. 
 
- 
-
-## Research Insights 
+ ## Research Insights 
 
 This research explores the design and implementation of an automated vulnerability scanner using Python for cybersecurity purposes. The scanner aims to detect common misconfigurations and vulnerabilities efficiently. 
 
 ## Challenges and Problem-Solving 
+
+I did face any problems or challenges when creating this python script. The video tutorial is very straight forward, and the narrator explained everything step by step and the code is in the description of the video. Just make you check for any syntax errors if you are copying the code or writing it manually line by line. Also, make sure the Python software and VS Code are up to date as well. 
 
 ## Limitations 
 
