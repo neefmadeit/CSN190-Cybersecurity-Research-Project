@@ -38,7 +38,7 @@ This article will guide you step-by-step to develop a basic vulnerability scanne
 - Step 8 – Create a function that creates a report.
 - Step 9 – Define the main function. 
 
-## Using the Software - Practical Example 
+## Using the Software
 
 After you run the Python script, it will look for the configuration file you created, then check it for vulnerabilities. You should see an output like in the screenshot below. 
 
