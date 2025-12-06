@@ -14,8 +14,6 @@ The proposed scanner consists of four main components: Input Module, Pattern Mat
 
 This aligns with my cybersecurity goals by exposing me to more tools that are used in the cybersecurity industry. I am also excited to use Python and get more experience developing code that I can use as a cybersecurity professional. 
 
-### Installation and Setup Tutorial 
-
 This article will guide you step-by-step to develop a basic vulnerability scanner using Python. 
 
 ## Tools Needed 
@@ -28,35 +26,47 @@ This article will guide you step-by-step to develop a basic vulnerability scanne
 
 - OS  
 
-Step 1 - Open VS Code and create a new folderStep 2 – Create a python file (.py extension)Step 3 – Import the OS module in Python which allows you to interact with the operating system.Step 4 – Create a function that generates a fake config file that is full of insecure settings.Step 5 – Open a file for writing.Step 6 – Create a function that gives a checklist of patterns that it will search for.Step 7 – Create a function that scans the system config file for vulnerabilities.Step 8 – Create a function that creates a report.Step 9 – Define the main function. Using the Software - Practical Example 
+### Installation and Setup Tutorial
+
+Step 1 - Open VS Code and create a new folder
+Step 2 – Create a python file (.py extension)
+Step 3 – Import the OS module in Python which allows you to interact with the operating system.
+Step 4 – Create a function that generates a fake config file that is full of insecure settings.
+Step 5 – Open a file for writing.
+Step 6 – Create a function that gives a checklist of patterns that it will search for.
+Step 7 – Create a function that scans the system config file for vulnerabilities.
+Step 8 – Create a function that creates a report.
+Step 9 – Define the main function. 
+
+## Using the Software - Practical Example 
 
 After you run the Python script, it will look for the configuration file you created, then check it for vulnerabilities. You should see an output like in the screenshot below. 
 
  
 
-Research Insights 
+## Research Insights 
 
 This research explores the design and implementation of an automated vulnerability scanner using Python for cybersecurity purposes. The scanner aims to detect common misconfigurations and vulnerabilities efficiently. 
 
-Challenges and Problem-Solving 
+## Challenges and Problem-Solving 
 
-Limitations 
+## Limitations 
 
-Custom scanners lack the depth and coverage of professional tools.  
+- Custom scanners lack the depth and coverage of professional tools.  
 
-False positives or negatives are common without accurate vulnerability databases.  
+- False positives or negatives are common without accurate vulnerability databases.  
 
-Ethical Considerations 
+## Ethical Considerations 
 
-Only scan systems you own or have explicit permission to test. Unauthorized scanning is illegal and unethical.  
+- Only scan systems you own or have explicit permission to test. Unauthorized scanning is illegal and unethical.  
 
-Follow responsible disclosure practices when identifying vulnerabilities.  
+- Follow responsible disclosure practices when identifying vulnerabilities.  
 
-Conclusion 
+## Conclusion 
 
 In conclusion, the development of a Python-based vulnerability scanner transcends mere programming exercise; it constitutes a strategic endeavor toward cultivating a rigorous conceptual foundation in security engineering and preparing for advanced practices in penetration testing and ethical hacking. Building your own vulnerability scanner in Python is an excellent way to deepen your understanding of cybersecurity principles. While it may not replace professional tools, a custom scanner is invaluable for learning and testing in controlled environments.  
 
-Resources and Links Section 
+##Resources and Links Section 
 
 YouTube Video - https://www.youtube.com/watch?v=v_xpHzNdzW4 
 
