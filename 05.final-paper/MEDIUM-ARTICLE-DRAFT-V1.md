@@ -66,8 +66,6 @@ This research explores the design and implementation of an automated vulnerabili
 
 In conclusion, the development of a Python-based vulnerability scanner transcends mere programming exercise; it constitutes a strategic endeavor toward cultivating a rigorous conceptual foundation in security engineering and preparing for advanced practices in penetration testing and ethical hacking. Building your own vulnerability scanner in Python is an excellent way to deepen your understanding of cybersecurity principles. While it may not replace professional tools, a custom scanner is invaluable for learning and testing in controlled environments.  
 
-##Resources and Links Section 
+## Resources and Links Section 
 
-YouTube Video - https://www.youtube.com/watch?v=v_xpHzNdzW4 
-
-
+YouTube Video - https://www.youtube.com/watch?v=v_xpHzNdzW4
