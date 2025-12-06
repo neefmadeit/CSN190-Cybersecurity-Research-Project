@@ -22,9 +22,7 @@ This article will guide you step-by-step to develop a basic vulnerability scanne
 
 - Python 
 
-- Python Libraries: 
-
-- OS  
+- Python Libraries: OS  
 
 ## Installation and Setup Tutorial
 
