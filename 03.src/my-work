@@ -1,0 +1,108 @@
+import os
+
+def create_sample_config():
+    """Creates a sample config file with insecure settings."""
+    config = """DB_PASSWORD=admin123
+DB_USER=root
+API_KEY=sk-1234567890abcdef
+DEBUG_MODE=true
+SSL_ENABLED=false
+ADMIN_PASSWORD=password
+FIREWALL_DISABLED=yes"""
+    
+    with open("server_config.txt", 'w') as f:
+        f.write(config)
+    print("[+] Created server_config.txt")
+    return "server_config.txt"
+
+def get_patterns():
+    """Returns vulnerability patterns to search for."""
+    return {
+        "weak_password": {
+            "search": ["password=admin", "password=password"],
+            "severity": "HIGH",
+            "message": "Weak password detected - easy to guess"
+        },
+        "exposed_secrets": {
+            "search": ["API_KEY=", "SECRET_TOKEN="],
+            "severity": "CRITICAL",
+            "message": "Secret found in config file - should use environment variables"
+        },
+        "insecure_settings": {
+            "search": ["SSL_ENABLED=false", "FIREWALL_DISABLED=yes", "DEBUG_MODE=true"],
+            "severity": "HIGH",
+            "message": "Insecure setting detected - security feature disabled"
+        },
+        "default_credentials": {
+            "search": ["DB_USER=root", "ADMIN_PASSWORD"],
+            "severity": "HIGH",
+            "message": "Default credentials found - change immediately"
+        }
+    }
+
+def scan_file(filename, patterns):
+    """Scans file for vulnerabilities."""
+    findings = []
+    
+    if not os.path.exists(filename):
+        print(f"[-] File '{filename}' not found!")
+        return findings
+    
+    with open(filename, 'r') as f:
+        lines = f.readlines()
+    
+    for line_num, line in enumerate(lines, start=1):
+        line_upper = line.upper().strip()
+        for vuln_name, vuln_info in patterns.items():
+            for search_term in vuln_info["search"]:
+                if search_term.upper() in line_upper:
+                    findings.append({
+                        "line": line_num,
+                        "content": line.strip(),
+                        "severity": vuln_info["severity"],
+                        "message": vuln_info["message"]
+                    })
+                    break
+    return findings
+
+def print_report(findings):
+    """Prints vulnerability report."""
+    print("\n" + "=" * 60)
+    print("VULNERABILITY SCAN REPORT")
+    print("=" * 60)
+    
+    if not findings:
+        print("\n[+] No vulnerabilities found!\n")
+        return
+    
+    critical = sum(1 for f in findings if f["severity"] == "CRITICAL")
+    high = sum(1 for f in findings if f["severity"] == "HIGH")
+    
+    print(f"\nTotal: {len(findings)} | Critical: {critical} | High: {high}\n")
+    
+    for severity in ["CRITICAL", "HIGH"]:
+        severity_findings = [f for f in findings if f["severity"] == severity]
+        if severity_findings:
+            print(f"[!] {severity} ISSUES:")
+            for idx, f in enumerate(severity_findings, 1):
+                print(f"  {idx}. Line {f['line']}: {f['content']}")
+                print(f"     {f['message']}\n")
+    
+    print("=" * 60 + "\n")
+
+def main():
+    """Main function."""
+    print("=" * 60)
+    print("AUTO VULNERABILITY SCANNER")
+    print("=" * 60)
+    
+    filename = create_sample_config()
+    patterns = get_patterns()
+    print(f"[+] Loaded {len(patterns)} patterns")
+    
+    findings = scan_file(filename, patterns)
+    print_report(findings)
+    print("Scan complete!\n")
+
+if __name__ == "__main__":
+    main()
