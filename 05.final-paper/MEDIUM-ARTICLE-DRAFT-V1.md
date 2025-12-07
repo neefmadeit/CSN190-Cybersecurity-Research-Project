@@ -27,14 +27,23 @@ This article will guide you step-by-step to develop a basic vulnerability scanne
 ## Installation and Setup Tutorial
 
 - Step 1 - Open VS Code and create a new folder
+- (screenshot here)
 - Step 2 – Create a python file (.py extension)
+- (screenshot here)
 - Step 3 – Import the OS module in Python which allows you to interact with the operating system.
+- (screenshot here)
 - Step 4 – Create a function that generates a fake config file that is full of insecure settings.
+- (screenshot here)
 - Step 5 – Open a file for writing.
+- (screenshot here)
 - Step 6 – Create a function that gives a checklist of patterns that it will search for.
+- (screenshot here)
 - Step 7 – Create a function that scans the system config file for vulnerabilities.
+- (screenshot here)
 - Step 8 – Create a function that creates a report.
-- Step 9 – Define the main function. 
+- (screenshot here)
+- Step 9 – Define the main function.
+- (screenshot here)
 
 ## Using the Software
 
