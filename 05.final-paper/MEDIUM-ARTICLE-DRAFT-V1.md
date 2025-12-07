@@ -42,7 +42,7 @@ After you run the Python script, it will look for the configuration file you cre
 
  ## Research Insights 
 
-This research explores the design and implementation of an automated vulnerability scanner using Python for cybersecurity purposes. The scanner aims to detect common misconfigurations and vulnerabilities efficiently. 
+This research project focuses on the design and implementation of an automated vulnerability scanner using Python, aimed at strengthening cybersecurity practices through automation. The primary objective is to create a lightweight, modular tool capable of detecting common misconfigurations and vulnerabilities efficiently, reducing reliance on manual assessments that are often time-consuming and error prone. Leveraging Python’s extensive ecosystem of libraries and its simplicity, the scanner integrates pattern-matching techniques, configuration file analysis, and automated reporting to streamline vulnerability detection. By automating repetitive security checks, this solution not only enhances operational efficiency but also minimizes human error, contributing to a more proactive and resilient cybersecurity posture.  
 
 ## Challenges and Problem-Solving 
 
