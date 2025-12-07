@@ -1,6 +1,6 @@
 ### Building My First Vulnerability Scanner Using Python: A Step-by-Step Guide 
 
-## Introduction/Abstract 
+## Introduction
 
 In today’s rapidly evolving cybersecurity landscape, vulnerability scanners play a critical role in safeguarding systems and applications against potential threats. These tools systematically probe networks, servers, and software for weaknesses that attackers could exploit, making them indispensable for security professionals and organizations alike. While industry-leading solutions such as Nessus, Qualys, and OpenVAS offer robust features and comprehensive coverage, they often come with limitations, such as high licensing costs, limited customization, or steep learning curves. 
 
