@@ -26,9 +26,9 @@ This article will guide you step-by-step to develop a basic vulnerability scanne
 
 ## Installation and Setup Tutorial
 
-- Step 1 - Open VS Code and create a new folder
+- Step 1 - Open VS Code and create a new folder.
 - (screenshot here)
-- Step 2 – Create a python file (.py extension)
+- Step 2 – Create a python file (.py extension).
 - (screenshot here)
 - Step 3 – Import the OS module in Python which allows you to interact with the operating system.
 - (screenshot here)
