@@ -26,7 +26,7 @@ This project aims to design and develop an automated vulnerability assessment to
 - `/images/` - Screenshots and visual documentation
 
 ## Getting Started
-The scanner successfully identifies common vulnerabilities such as default credentials, enabled debug modes, and weak authentication policies. Its lightweight design allows integration into DevSecOps pipelines. Future enhancements include CVE database integration and multi-threaded scanning for large-scale systems.
+For those seeking flexibility, deeper understanding, or a hands-on approach, building your own vulnerability scanner can be both an educational and empowering experience. By creating a custom tool, you gain full control over its functionality, enabling you to tailor scanning techniques, reporting formats, and integration options to meet specific organizational or research needs. Beyond technical skills, this project offers valuable insights into how vulnerabilities are discovered and exploited, strengthening your overall security expertise. 
 
 ## Results Summary
 This project has taught me what goes into the process of creating a vulnerability scanner using Python. Before this, I never had to use Python as much as I did. In the process, I gained a deeper understanding of Python and how libraries work and how to implement them into a Pythion project. I also learned about API keys and how they are used when coding an application.
