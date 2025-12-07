@@ -66,4 +66,4 @@ In conclusion, the development of a Python-based vulnerability scanner transcend
 
 ## Resources and Links Section 
 
-YouTube Video - https://www.youtube.com/watch?v=v_xpHzNdzW4
+Learning Resources: YouTube Video - https://www.youtube.com/watch?v=v_xpHzNdzW4
