@@ -76,3 +76,9 @@
 - Type: YouTube Video  
 - Synopsis: A conceptual and practical overview of how AI and ML are used to detect phishing threats. Includes real-world examples and tips for recognizing phishing attempts. 
 - Link: https://www.youtube.com/watch?v=93WliZOjQ-4
+
+### Resource 5:    
+- Citation: Channel: Nick. (n.d.)
+- Type: YouTube Video  
+- Synopsis: A step by step guide on how to create a vulnerability scanner in Python. 
+- Link: https://www.youtube.com/watch?v=v_xpHzNdzW4
