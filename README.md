@@ -13,7 +13,7 @@ This project aims to design and develop an automated vulnerability assessment to
 - Python
 
 ## Key Deliverables
-- [Medium Article](link when published)
+- [Medium Article](link when published
 - [Tutorial](04.docs/SETUP-GUIDE.md)
 
 ## Repository Navigation
