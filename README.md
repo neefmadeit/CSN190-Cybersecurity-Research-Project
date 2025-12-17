@@ -33,4 +33,4 @@ This project has taught me what goes into the process of creating a vulnerabilit
 ## Contact
 - Email: aneef_s@yahoo.com
 - LinkedIn: https://www.linkedin.com/in/aneefsheriff/
-- Medium: [Your Profile]
+- Medium: https://medium.com/@aneef_s
