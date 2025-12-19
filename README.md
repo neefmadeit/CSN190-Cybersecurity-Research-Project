@@ -13,7 +13,7 @@ This project aims to design and develop an automated vulnerability assessment to
 - Python
 
 ## Key Deliverables
-- [Medium Article](link when published
+- [Medium Article](https://medium.com/@aneef_s/building-my-first-vulnerability-scanner-using-python-a-step-by-step-guide-3f9ed3899daa?postPublishedType=initial)
 
 ## Repository Navigation
 - `/weekly-progress/` - All weekly assignments and progress updates
